@@ -15,17 +15,27 @@ Forster Barnes, Stephen Burris, David Devore, Jon LeMaster, Gabe Scott
 # User Persona
 ## Primary User: 		Lover of Puzzles
 ##	Characteristics: 
-### Loves Puzzles
-### Wants an engaging or challenging hobby
-### Has any level of education, probably skews higher
-### Male or female, but player pool probably skews slightly male
-### Any age, probably skews older
-### Has a decent size attention span and level of focus
-## 	Needs: 
-### Easy Use
-### Accessibility features (zoom, colorblind correction,etc.)
-### Helpful hints/tools
-### Incorporation of classical sudoku strategies
+
+Loves Puzzles
+
+Wants an engaging or challenging hobby
+
+Has any level of education, probably skews higher
+
+Male or female, but player pool probably skews slightly male
+
+Any age, probably skews older
+
+Has a decent size attention span and level of focus
+## Needs: 
+
+Easy Use
+
+Accessibility features (zoom, colorblind correction,etc.)
+
+Helpful hints/tools
+
+Incorporation of classical sudoku strategies
 
 # Secondary User: 	Test Subjects
 ##	Characteristics:
@@ -34,27 +44,40 @@ Forster Barnes, Stephen Burris, David Devore, Jon LeMaster, Gabe Scott
 	
 # Anti-User: 	Not interested in our app
 ##	Characteristics:
-### Does not love puzzles/math
+
+Does not love puzzles/math
 ##	Needs:
-### Higher level of engagement
-### Lower difficulty
+
+Higher level of engagement
+
+Lower difficulty
 
 # Scenarios
 ## Phone Use (Primary): 
-##	Use Environment: Places where it is convenient to use a smart phone
+Use Environment: Places where it is convenient to use a smart phone
 ##	Tools/Needs:
-### Dark mode/light mode
-### Save/Continue function
-### Hints/Help
-### Difficulty settings
-### Link across devices
-### Accessibility/phone optimized interface
+
+Dark mode/light mode
+
+Save/Continue function
+
+Hints/Help
+
+Difficulty settings
+
+Link across devices
+
+Accessibility/phone optimized interface
 ## Goal/Tasks: 
-### User must be able to pick up and play and save a puzzle to continue later
-### User will place in a variety of environments and lighting conditions
+
+User must be able to pick up and play and save a puzzle to continue later
+
+User will place in a variety of environments and lighting conditions
 	
 ## Tablet Use (Secondary):
-##	Use Environment: At a desk, on a couch, in a hammock, or other stationary place indoors or outdoors
+
+Use Environment: At a desk, on a couch, in a hammock, or other stationary place indoors or outdoors
+
 ##	Tools/Needs:
 
 
