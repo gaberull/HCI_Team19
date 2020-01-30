@@ -60,20 +60,23 @@ Proposal
 
 
 # User Tasks/Activities
+
 Select/Add numbers to tiles
+
 Remove/Change numbers in tiles
 
 # Card Sorting
-Priority Hierarchy
+## Priority Hierarchy
 
-Task Categories
+## Task Categories
 
 # Semantic Networks
 Pair Task Categories with Underlying Concepts/Goals
 
-Flowcharts
-Cognitive Walkthroughs
-Dwaine on a cliff
-Use Cases & Storyboarding with Mockups/Adobe XD
+# Flowcharts
+
+# Cognitive Walkthroughs
+
+# Use Cases & Storyboarding with Mockups/Adobe XD
 
 
