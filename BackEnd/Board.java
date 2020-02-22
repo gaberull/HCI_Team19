@@ -72,6 +72,7 @@ class Board{
 			if(checkIndex == index);
 			else if(this.getSquare(checkIndex) == value) return false;
 		}
+		return false;
 	}
 	
 }
